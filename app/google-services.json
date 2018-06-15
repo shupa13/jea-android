@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "790668730390",
+    "firebase_url": "https://jeaproto.firebaseio.com",
+    "project_id": "jeaproto",
+    "storage_bucket": "jeaproto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790668730390:android:3c6a00b98876df16",
+        "android_client_info": {
+          "package_name": "com.seoho.jeaproto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790668730390-8jq7m2p6lgl4f00cg6b87efh1iv7g9s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seoho.jeaproto",
+            "certificate_hash": "08f50b39ed157a6e84bd9f69b1d7e8d8e0a4a045"
+          }
+        },
+        {
+          "client_id": "790668730390-c6eeon4kc9m153lvb1pqe08oqpfiaf8u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "790668730390-c6eeon4kc9m153lvb1pqe08oqpfiaf8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAew55Xesh29GHLFrjWPKDFCLv5q8fu1VI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790668730390-c6eeon4kc9m153lvb1pqe08oqpfiaf8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
